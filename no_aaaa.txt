@@ -1,6 +1,6 @@
 # Resolvers to which Google may not return AAAA records.
 # Copyright 2019 Google Inc. All Rights Reserved.
-# Last updated: 2019-02-22.
+# Last updated: 2019-02-23.
 
 192.0.2.0/24
 2001:db8::/32
@@ -8,25 +8,25 @@
 200.222.122.186/32       # AS7738 Brazil
 201.10.132.4/31          # AS8167 Brazil
 200.222.123.252/31       # AS7738 Brazil
-200.222.123.106/31       # AS7738 Brazil
 201.10.124.1/32          # AS8167 Brazil
 201.10.132.3/32          # AS8167 Brazil
 201.10.124.3/32          # AS8167 Brazil
 217.23.254.52/32         # AS6830 Slovakia
+200.222.123.106/32       # AS7738 Brazil
 200.222.123.108/32       # AS7738 Brazil
-2804:54:cab0:baf0:189:124:132:14/128 # AS28220 Brazil
 189.124.132.14/32        # AS28220 Brazil
+2804:54:cab0:baf0:189:124:132:14/128 # AS28220 Brazil
 200.139.206.81/32        # AS53037 Brazil
 200.139.206.82/32        # AS53037 Brazil
 189.40.196.156/32        # AS26615 Brazil
-189.40.196.155/32        # AS26615 Brazil
-74.63.20.246/31          # AS42 United States
 203.69.155.34/32         # AS3462 Taiwan
+74.63.20.242/31          # AS42 United States
+74.63.20.246/31          # AS42 United States
 2620:171:f4:f0::6/127    # AS42 United States
 14.139.5.14/32           # AS55824 India
 200.139.197.50/32        # AS53037 Brazil
-103.234.162.47/32        # AS133260 India
 103.234.162.55/32        # AS133260 India
+103.234.162.47/32        # AS133260 India
 185.94.213.128/32        # AS47203
 195.120.182.170/32       # AS3269 Italy
 2001:b032:b:2::253/128   # AS3462 Taiwan
@@ -34,9 +34,10 @@
 74.63.20.248/32          # AS42 United States
 2620:171:f4:f0::2/128    # AS42 United States
 65.49.68.191/32          # AS6939 United States
+2620:171:f4:f0::8/128    # AS42 United States
 65.49.2.101/32           # AS6939 United States
-91.221.59.8/32           # AS51733 Germany
 80.91.160.9/32           # AS21219 Ukraine
 2c0f:fe08:11:1::4/128    # AS36914 Kenya
 162.158.101.204/32       # AS13335 Poland
+148.87.1.36/32           # AS1215
 129.42.208.167/32        # AS706 United States
