@@ -1,6 +1,6 @@
 # Resolvers to which Google may not return AAAA records.
 # Copyright 2019 Google Inc. All Rights Reserved.
-# Last updated: 2019-03-19.
+# Last updated: 2019-03-21.
 
 192.0.2.0/24
 2001:db8::/32
@@ -12,54 +12,27 @@
 187.190.119.146/32       # AS17072 Mexico
 201.10.132.3/32          # AS8167 Brazil
 189.124.132.14/32        # AS28220 Brazil
-200.139.197.49/32        # AS53037 Brazil
 74.63.26.246/31          # AS42 United States
-2620:171:fa:f0::2/127    # AS42 United States
 2620:171:fa:f0::6/127    # AS42 United States
+2620:171:fa:f0::2/127    # AS42 United States
 74.63.26.242/31          # AS42 United States
 200.139.206.81/32        # AS53037 Brazil
-200.139.206.82/32        # AS53037 Brazil
 197.199.224.4/31         # AS36992 Egypt
-2620:171:fa:f0::4/128    # AS42 United States
-74.63.26.244/32          # AS42 United States
-74.63.26.248/32          # AS42 United States
+200.139.206.82/32        # AS53037 Brazil
 2620:171:fa:f0::8/128    # AS42 United States
+74.63.26.248/32          # AS42 United States
+74.63.26.244/32          # AS42 United States
+2620:171:fa:f0::4/128    # AS42 United States
 172.68.237.101/32        # AS13335 Ukraine
 189.40.196.219/32        # AS26615 Brazil
 203.69.155.34/32         # AS3462 Taiwan
-128.122.0.11/32          # AS12 United States
-128.122.0.71/32          # AS12 United States
-2001:b032:b:2::253/128   # AS3462 Taiwan
-82.203.72.3/32           # AS51551 United Kingdom
-2c0f:fe08:11:1::4/128    # AS36914 Kenya
-2400:cb00:20:1024::a29e:6dc5/128 # AS13335 Netherlands
-2400:cb00:20:1024::a29e:6e17/128 # AS13335 Netherlands
 189.40.196.156/32        # AS26615 Brazil
-2400:cb00:20:1024::8d65:400e/128 # AS13335 Netherlands
-2400:cb00:20:1024::a29e:6def/128 # AS13335 Netherlands
-2400:cb00:20:1024::a29e:6de3/128 # AS13335 Netherlands
-2400:cb00:20:1024::a29e:6dd7/128 # AS13335 Netherlands
+189.40.196.148/32        # AS26615 Brazil
+185.94.213.0/32          # AS47203
+128.122.0.11/32          # AS12 United States
+2c0f:fe08:11:1::4/128    # AS36914 Kenya
+2001:b032:b:2::253/128   # AS3462 Taiwan
+128.122.0.71/32          # AS12 United States
+82.203.72.3/32           # AS51551 United Kingdom
 2400:cb00:20:1024::8d65:4b94/128 # AS13335 Netherlands
-2400:cb00:20:1024::8d65:4b8e/128 # AS13335 Netherlands
-2400:cb00:20:1024::8d65:4008/128 # AS13335 Netherlands
-2400:cb00:20:1024::8d65:4b76/128 # AS13335 Netherlands
-2400:cb00:20:1024::8d65:407c/128 # AS13335 Netherlands
-2400:cb00:20:1024::8d65:4073/128 # AS13335 Netherlands
-2400:cb00:20:1024::8d65:4020/128 # AS13335 Netherlands
-2400:cb00:20:1024::8d65:4033/128 # AS13335 Netherlands
-2400:cb00:20:1024::8d65:4093/128 # AS13335 Netherlands
-2400:cb00:20:1024::8d65:4024/128 # AS13335 Netherlands
-2400:cb00:20:1024::8d65:4029/128 # AS13335 Netherlands
-2400:cb00:20:1024::8d65:406f/128 # AS13335 Netherlands
-2400:cb00:20:1024::8d65:403b/128 # AS13335 Netherlands
-2400:cb00:20:1024::8d65:4053/128 # AS13335 Netherlands
-129.42.208.167/32        # AS706 United States
-2400:cb00:20:1024::8d65:4044/128 # AS13335 Netherlands
-2400:cb00:20:1024::8d65:4077/128 # AS13335 Netherlands
-2400:cb00:20:1024::8d65:4081/128 # AS13335 Netherlands
-2400:cb00:20:1024::8d65:402e/128 # AS13335 Netherlands
-2400:cb00:20:1024::8d65:4057/128 # AS13335 Netherlands
-2400:cb00:20:1024::8d65:4098/128 # AS13335 Netherlands
 201.251.13.5/32          # AS27927 Argentina
-2400:cb00:20:1024::8d65:401b/128 # AS13335 Netherlands
-2400:cb00:20:1024::8d65:408a/128 # AS13335 Netherlands
