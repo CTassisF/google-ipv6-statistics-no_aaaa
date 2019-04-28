@@ -1,6 +1,6 @@
 # Resolvers to which Google may not return AAAA records.
 # Copyright 2019 Google Inc. All Rights Reserved.
-# Last updated: 2019-04-27.
+# Last updated: 2019-04-28.
 
 192.0.2.0/24
 2001:db8::/32
@@ -10,8 +10,10 @@
 200.222.123.252/32       # AS7738 Brazil
 201.10.124.1/32          # AS8167 Brazil
 201.10.132.3/32          # AS8167 Brazil
+200.139.197.49/32        # AS53037 Brazil
+201.251.13.4/31          # AS27927 Argentina
 2001:f40:0:3::2:67/128   # AS9930 Malaysia
 203.69.155.34/32         # AS3462 Taiwan
-65.49.38.139/32          # AS6939 United States
 2001:b032:b:2::253/128   # AS3462 Taiwan
-195.120.182.170/32       # AS3269 Italy
+103.234.162.47/32        # AS133260 India
+2c0f:fe08:11:1::4/128    # AS36914 Kenya
