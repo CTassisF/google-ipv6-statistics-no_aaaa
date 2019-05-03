@@ -1,6 +1,6 @@
 # Resolvers to which Google may not return AAAA records.
 # Copyright 2019 Google Inc. All Rights Reserved.
-# Last updated: 2019-05-02.
+# Last updated: 2019-05-03.
 
 192.0.2.0/24
 2001:db8::/32
@@ -15,7 +15,9 @@
 2001:f40:0:3::2:67/128   # AS9930 Malaysia
 203.69.155.34/32         # AS3462 Taiwan
 189.40.196.219/32        # AS26615 Brazil
+203.121.106.67/32        # AS9930 Malaysia
 185.94.213.128/32        # AS47203
 2001:b032:b:2::253/128   # AS3462 Taiwan
+185.94.214.0/32          # AS47203
 195.120.182.170/32       # AS3269 Italy
 190.184.56.52/32         # AS14754 Nicaragua
