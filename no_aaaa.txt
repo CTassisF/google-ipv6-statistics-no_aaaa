@@ -1,32 +1,30 @@
 # Resolvers to which Google may not return AAAA records.
 # Copyright 2019 Google Inc. All Rights Reserved.
-# Last updated: 2019-06-20.
+# Last updated: 2019-06-21.
 
 192.0.2.0/24
 2001:db8::/32
-200.222.122.188/32       # AS7738 Brazil
 49.45.28.244/30          # AS55836 India
 201.10.124.1/32          # AS8167 Brazil
 49.45.29.68/31           # AS55836 India
 2405:200:1604:1957:78::4/127 # AS55836 India
 2405:200:1606:1957:78::4/126 # AS55836 India
+49.45.28.52/31           # AS55836 India
 189.40.196.220/32        # AS26615 Brazil
-189.40.196.219/32        # AS26615 Brazil
 49.45.29.70/32           # AS55836 India
 2405:200:1604:1957:78::6/128 # AS55836 India
-49.45.28.52/32           # AS55836 India
+49.45.28.54/32           # AS55836 India
+2405:200:1609:1957:78::6/128 # AS55836 India
 66.250.7.154/32          # AS174 United States
-200.139.197.49/32        # AS53037 Brazil
 200.139.206.81/32        # AS53037 Brazil
-2001:f40:0:3::12:68/128  # AS9930 Malaysia
 200.139.206.82/32        # AS53037 Brazil
+2001:f40:0:3::12:68/128  # AS9930 Malaysia
 38.104.99.142/32         # AS174 United States
 203.69.155.34/32         # AS3462 Taiwan
-141.207.217.254/32       # AS22394 United States
-200.139.197.50/32        # AS53037 Brazil
 195.120.182.170/32       # AS3269 Italy
 2c0f:fe08:11:1::4/128    # AS36914 Kenya
 103.234.162.47/32        # AS133260 India
+178.34.153.254/32        # AS201776
 2001:b032:b:2::253/128   # AS3462 Taiwan
-170.239.235.2/32         # AS265252 Brazil
 82.203.72.3/32           # AS51551 United Kingdom
+2.188.21.4/32            # AS12880 Iran
