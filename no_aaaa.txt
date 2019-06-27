@@ -1,12 +1,13 @@
 # Resolvers to which Google may not return AAAA records.
 # Copyright 2019 Google Inc. All Rights Reserved.
-# Last updated: 2019-06-26.
+# Last updated: 2019-06-27.
 
 192.0.2.0/24
 2001:db8::/32
 
 # Automatic AAAA filtering is currently disabled.
 # If enabled, it would affect these resolvers:
+# 200.222.122.186/32       # AS7738 Brazil
 # 200.222.123.253/32       # AS7738 Brazil
 # 49.45.28.244/30          # AS55836 India
 # 49.45.29.68/31           # AS55836 India
@@ -23,13 +24,12 @@
 # 203.69.155.34/32         # AS3462 Taiwan
 # 200.139.197.50/32        # AS53037 Brazil
 # 162.158.248.53/32        # AS13335 Ukraine
-# 103.234.162.55/32        # AS133260 India
 # 195.120.182.170/32       # AS3269 Italy
-# 2c0f:fe08:11:1::4/128    # AS36914 Kenya
 # 2001:b032:b:2::253/128   # AS3462 Taiwan
 # 103.234.162.47/32        # AS133260 India
+# 2c0f:fe08:11:1::4/128    # AS36914 Kenya
+# 82.203.72.3/32           # AS51551 United Kingdom
 # 2600:387:8:c::12/128     # AS20057 United States
 # 2600:387:8:c::c/128      # AS20057 United States
 # 2600:387:8:c::9/128      # AS20057 United States
-# 82.203.72.3/32           # AS51551 United Kingdom
 # 2600:387:8:c::6/128      # AS20057 United States
