@@ -1,6 +1,6 @@
 # Resolvers to which Google may not return AAAA records.
 # Copyright 2019 Google Inc. All Rights Reserved.
-# Last updated: 2019-09-08.
+# Last updated: 2019-09-09.
 
 192.0.2.0/24
 2001:db8::/32
@@ -14,4 +14,3 @@
 # 103.234.162.55/32        # AS133260 India
 # 129.41.84.112/32         # AS2538 Sri Lanka
 # 202.135.245.1/32         # AS2687 Singapore
-# 81.162.64.6/32           # AS198293
