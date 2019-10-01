@@ -1,6 +1,6 @@
 # Resolvers to which Google may not return AAAA records.
 # Copyright 2019 Google Inc. All Rights Reserved.
-# Last updated: 2019-09-30.
+# Last updated: 2019-10-01.
 
 192.0.2.0/24
 2001:db8::/32
@@ -14,9 +14,12 @@
 # 129.41.84.100/32         # AS2538 Sri Lanka
 # 179.155.224.19/32        # AS28573 Brazil
 # 120.17.253.254/32        # AS133612 Australia
+# 163.135.193.231/32       # AS4673 Japan
 # 41.215.252.26/32         # AS37453 Congo - Kinshasa
 # 129.41.84.112/32         # AS2538 Sri Lanka
 # 202.135.245.1/32         # AS2687 Singapore
 # 62.210.18.16/32          # AS12876 France
 # 2001:bc8:1::16/128       # AS12876 France
+# 163.135.193.232/32       # AS4673 Japan
 # 2c0f:fe08:11:1::4/128    # AS36914 Kenya
+# 166.67.64.21/32          # AS7046 United States
