@@ -1,6 +1,6 @@
 # Resolvers to which Google may not return AAAA records.
 # Copyright 2019 Google Inc. All Rights Reserved.
-# Last updated: 2019-10-27.
+# Last updated: 2019-10-28.
 
 192.0.2.0/24
 2001:db8::/32
@@ -14,6 +14,7 @@
 # 2001:260:460:2::10/126   # AS2518 Japan
 # 2001:260:461:7::4/126    # AS2518 Japan
 # 2001:4888:8042:ff00:420:d::/128 # AS22394 United States
+# 189.124.132.14/32        # AS28220 Brazil
 # 2804:14c:3b11:672:201:55:232:42/128 # AS28573 Brazil
 # 2804:14c:3b11:672:201:55:232:96/128 # AS28573 Brazil
 # 2804:14c:3b11:672:201:55:232:207/128 # AS28573 Brazil
@@ -22,8 +23,8 @@
 # 2001:260:461:7::2/127    # AS2518 Japan
 # 2001:260:461:7::8/127    # AS2518 Japan
 # 2804:14d:4410:672:189:7:152:46/127 # AS28573 Brazil
+# 14.139.5.18/32           # AS55824 India
 # 2400:cb00:132:1024::ac44:ed6b/128 # AS13335 Ukraine
-# 65.49.38.142/32          # AS6939 United States
 # 2001:260:460:2::1/128    # AS2518 Japan
 # 2001:260:461:7::1/128    # AS2518 Japan
 # 2001:260:461:7::a/128    # AS2518 Japan
