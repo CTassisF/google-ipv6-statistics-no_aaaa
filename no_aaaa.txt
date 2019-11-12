@@ -1,6 +1,6 @@
 # Resolvers to which Google may not return AAAA records.
 # Copyright 2019 Google Inc. All Rights Reserved.
-# Last updated: 2019-11-11.
+# Last updated: 2019-11-12.
 
 192.0.2.0/24
 2001:db8::/32
@@ -9,8 +9,8 @@
 # If enabled, it would affect these resolvers:
 # 58.71.132.52/32          # AS9534 Malaysia
 # 2001:d08:11:201::52/128  # AS9534 Malaysia
-# 49.45.28.52/30           # AS55836 India
 # 2405:200:1609:1957:78::4/126 # AS55836 India
+# 49.45.28.52/30           # AS55836 India
 # 1.38.15.34/32            # AS38266 India
 # 2001:260:460:2::8/125    # AS2518 Japan
 # 2001:260:460:2::4/126    # AS2518 Japan
@@ -31,3 +31,4 @@
 # 2001:260:461:7::1/128    # AS2518 Japan
 # 2001:260:461:7::a/128    # AS2518 Japan
 # 103.234.162.55/32        # AS133260 India
+# 41.215.252.26/32         # AS37453 Congo - Kinshasa
