@@ -1,35 +1,32 @@
 # Resolvers to which Google may not return AAAA records.
 # Copyright 2019 Google Inc. All Rights Reserved.
-# Last updated: 2019-12-13.
+# Last updated: 2019-12-14.
 
 192.0.2.0/24
 2001:db8::/32
 
 # Automatic AAAA filtering is currently disabled.
 # If enabled, it would affect these resolvers:
-# 2001:d08:11:201::52/128  # AS9534 Malaysia
-# 58.71.132.52/32          # AS9534 Malaysia
 # 122.2.165.150/32         # AS9299 Philippines
 # 2001:4450:10:1021::3/128 # AS9299 Philippines
-# 200.195.190.253/32       # AS14868 Brazil
 # 200.195.190.243/32       # AS14868 Brazil
 # 1.38.13.62/32            # AS38266 India
 # 2001:260:460:2::8/126    # AS2518 Japan
 # 1.38.3.42/32             # AS38266 India
 # 2804:54:cab0:baf0:189:124:132:14/128 # AS28220 Brazil
-# 2001:260:460:2::6/127    # AS2518 Japan
 # 2001:260:460:2::2/127    # AS2518 Japan
-# 2001:260:461:7::8/127    # AS2518 Japan
+# 2001:260:460:2::6/127    # AS2518 Japan
+# 2001:260:460:2::c/127    # AS2518 Japan
 # 2001:260:461:7::4/127    # AS2518 Japan
 # 2804:14c:3b10:672:201:55:232:86/128 # AS28573 Brazil
 # 2804:14c:3b10:672:201:55:232:43/128 # AS28573 Brazil
 # 2804:14c:3b10:672:201:55:232:215/128 # AS28573 Brazil
-# 200.32.10.115/32         # AS10481 Argentina
 # 2001:260:460:2::f/128    # AS2518 Japan
-# 2001:260:460:2::5/128    # AS2518 Japan
 # 2001:260:460:2::1/128    # AS2518 Japan
-# 2001:260:460:2::d/128    # AS2518 Japan
+# 2001:260:460:2::5/128    # AS2518 Japan
 # 2001:260:460:2::13/128   # AS2518 Japan
+# 2001:260:461:7::8/128    # AS2518 Japan
 # 2001:260:461:7::a/128    # AS2518 Japan
 # 2001:260:461:7::2/128    # AS2518 Japan
 # 2001:260:461:7::6/128    # AS2518 Japan
+# 163.28.6.1/32            # AS1659 Taiwan
