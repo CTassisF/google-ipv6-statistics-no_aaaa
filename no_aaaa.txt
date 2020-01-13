@@ -1,6 +1,6 @@
 # Resolvers to which Google may not return AAAA records.
 # Copyright 2020 Google Inc. All Rights Reserved.
-# Last updated: 2020-01-12.
+# Last updated: 2020-01-13.
 
 192.0.2.0/24
 2001:db8::/32
@@ -20,7 +20,6 @@
 # 2001:260:460:2::2/127    # AS2518 Japan
 # 163.17.40.1/32           # AS1659 Taiwan
 # 65.112.145.66/32         # AS14434 U.S. Virgin Islands
-# 66.248.160.66/32         # AS14434 U.S. Virgin Islands
 # 2001:260:460:2::1/128    # AS2518 Japan
 # 2001:260:461:7::a/128    # AS2518 Japan
 # 2001:260:461:7::1/128    # AS2518 Japan
