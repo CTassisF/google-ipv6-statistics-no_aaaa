@@ -1,6 +1,6 @@
 # Resolvers to which Google may not return AAAA records.
 # Copyright 2020 Google Inc. All Rights Reserved.
-# Last updated: 2020-02-01.
+# Last updated: 2020-02-02.
 
 192.0.2.0/24
 2001:db8::/32
@@ -10,6 +10,7 @@
 # 80.246.132.100/32        # AS21450 Israel
 # 1.38.3.32/30             # AS38266 India
 # 2001:260:460:2::8/125    # AS2518 Japan
+# 68.29.0.228/32           # AS3651 United States
 # 1.38.13.62/32            # AS38266 India
 # 2001:260:461:7::4/126    # AS2518 Japan
 # 2001:260:460:2::4/126    # AS2518 Japan
@@ -17,20 +18,20 @@
 # 1.38.3.36/31             # AS38266 India
 # 1.38.3.40/32             # AS38266 India
 # 2804:54:cab0:baf0:189:124:132:14/128 # AS28220 Brazil
-# 1.38.3.38/32             # AS38266 India
 # 202.94.66.2/32           # AS55915 Nepal
-# 185.153.237.188/32       # AS206067 United Kingdom
-# 2001:260:461:7::2/127    # AS2518 Japan
-# 2001:260:461:7::8/127    # AS2518 Japan
+# 1.38.3.38/32             # AS38266 India
 # 2001:260:460:2::2/127    # AS2518 Japan
+# 2001:260:461:7::8/127    # AS2518 Japan
+# 2001:260:461:7::2/127    # AS2518 Japan
+# 1.38.3.80/32             # AS38266 India
+# 185.153.237.188/32       # AS206067 United Kingdom
 # 68.29.112.228/32         # AS10507 United States
 # 185.153.237.122/32       # AS206067 United Kingdom
-# 1.38.3.80/32             # AS38266 India
 # 1.38.3.44/32             # AS38266 India
 # 200.198.5.20/32          # AS10670 Brazil
 # 91.194.238.4/32          # AS43400
 # 2001:260:461:7::1/128    # AS2518 Japan
 # 2001:260:460:2::1/128    # AS2518 Japan
 # 2001:260:461:7::a/128    # AS2518 Japan
-# 66.248.160.66/32         # AS14434 U.S. Virgin Islands
 # 65.112.145.66/32         # AS14434 U.S. Virgin Islands
+# 66.248.160.66/32         # AS14434 U.S. Virgin Islands
