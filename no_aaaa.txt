@@ -1,6 +1,6 @@
 # Resolvers to which Google may not return AAAA records.
 # Copyright 2020 Google Inc. All Rights Reserved.
-# Last updated: 2020-02-16.
+# Last updated: 2020-02-17.
 
 192.0.2.0/24
 2001:db8::/32
@@ -8,33 +8,41 @@
 # Automatic AAAA filtering is currently disabled.
 # If enabled, it would affect these resolvers:
 # 1.38.13.62/31            # AS38266 India
-# 80.246.132.100/32        # AS21450 Israel
 # 80.246.131.100/32        # AS21450 Israel
-# 1.38.3.32/30             # AS38266 India
+# 80.246.132.100/32        # AS21450 Israel
+# 2405:200:1604:1957:78::4/127 # AS55836 India
+# 49.45.29.68/31           # AS55836 India
 # 2001:260:460:2::8/125    # AS2518 Japan
-# 2405:200:1604:1957:78::4/128 # AS55836 India
+# 1.38.3.32/30             # AS38266 India
+# 49.45.29.70/32           # AS55836 India
+# 2405:200:1604:1957:78::6/128 # AS55836 India
 # 2001:260:460:2::4/126    # AS2518 Japan
 # 2001:260:460:2::10/126   # AS2518 Japan
 # 2001:260:461:7::4/126    # AS2518 Japan
 # 1.38.3.36/31             # AS38266 India
-# 1.38.3.0/32              # AS38266 India
+# 1.38.3.6/32              # AS38266 India
 # 1.38.3.42/32             # AS38266 India
 # 1.38.3.38/32             # AS38266 India
 # 1.38.3.40/32             # AS38266 India
+# 1.38.3.21/32             # AS38266 India
 # 2001:260:460:2::2/127    # AS2518 Japan
-# 2001:260:461:7::8/127    # AS2518 Japan
 # 202.94.66.2/32           # AS55915 Nepal
+# 2001:260:461:7::8/127    # AS2518 Japan
 # 2001:260:461:7::2/127    # AS2518 Japan
 # 1.38.3.80/32             # AS38266 India
-# 1.38.3.12/32             # AS38266 India
+# 185.153.237.122/32       # AS206067 United Kingdom
 # 185.153.237.188/32       # AS206067 United Kingdom
-# 1.38.3.44/32             # AS38266 India
 # 162.158.248.35/32        # AS13335 Ukraine
-# 91.194.238.4/32          # AS43400
+# 1.38.3.44/32             # AS38266 India
 # 2400:cb00:132:1024::a29e:f823/128 # AS13335 Ukraine
 # 131.228.2.13/32          # AS200656 Finland
+# 2804:14c:f410:672:189:7:88:85/128 # AS28573 Brazil
 # 2001:260:460:2::1/128    # AS2518 Japan
 # 2001:260:461:7::1/128    # AS2518 Japan
+# 2804:14c:f410:672:189:7:88:83/128 # AS28573 Brazil
 # 2001:260:461:7::a/128    # AS2518 Japan
+# 1.38.3.86/32             # AS38266 India
+# 2804:14c:f410:672:189:7:88:86/128 # AS28573 Brazil
+# 1.38.3.14/32             # AS38266 India
+# 163.28.6.1/32            # AS1659 Taiwan
 # 2c0f:fe08:11:1::4/128    # AS36914 Kenya
-# 66.248.160.66/32         # AS14434 U.S. Virgin Islands
